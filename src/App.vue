@@ -24,7 +24,7 @@ export default {
   },
   data () {
     return{
-      api_key: '4cd28283c84c6b104584b9bdd98e7b83',
+      api_key: 'your api key',
       url_base: 'https://api.openweathermap.org/data/2.5/',
       query: 'Puri',
       weather: {},
